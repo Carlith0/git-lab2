@@ -1,3 +1,2 @@
 Autor: Jakub Libura
 Kurs: Technologie DevOps
-problem
